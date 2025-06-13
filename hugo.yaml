@@ -140,7 +140,7 @@ params:
   github_harvester_repo: https://github.com/galv-team/galv-harvester/
 
   # An optional link to the project website.
-  live_server_url: https://galv-frontend-dev.fly.dev/
+  live_server_url: https://galv.oxrse.uk/
 
   python_api: https://pypi.org/project/galv/
 
@@ -203,7 +203,7 @@ params:
         icon: fa fa-envelope
         desc: Send an email to the Galv developers
       - name: Use Galv
-        url: https://galv-frontend-dev.fly.dev/
+        url: https://galv.oxrse.uk/
         icon: fa fa-battery-full
         desc: Check out the public instance of Galv
     # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
